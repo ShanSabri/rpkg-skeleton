@@ -1,0 +1,18 @@
+Package: rpkg-skeleton
+Title: baseline skeleton framework for a R pkg
+Version: 0.0.0.9000
+Authors@R: 
+    c(person(given = "Shan",
+             family = "Sabri",
+             role = c("aut", "cre"),
+             email = "ShanASabri@gmail.com"),
+      person(given = "UCLA",
+             role = "Bioinformatics PhD"))
+Description: baseline skeleton framework for a R pkg
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat
+URL: https://github.com/shansabri/rpkg-skeleton
+BugReports: https://github.com/shansabri/rpkg-skeleton/issues
